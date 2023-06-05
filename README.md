@@ -1,5 +1,5 @@
 # OIBSIP--project1
-Oasis Infobyte Internship - Task 3 :-
+Oasis Infobyte Internship - Task 1 :-
 
 Overview: Developed a Java-based ATM interface that provides users with a seamless and secure banking experience. The interface mimics the functionality of a real ATM, allowing users to perform various banking transactions, such as cash withdrawals, balance inquiries, fund transfers, and account management.
 
